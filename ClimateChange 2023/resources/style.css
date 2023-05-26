@@ -1,0 +1,41 @@
+*{
+    font-family: 'Andika', sans-serif;
+}
+#mainheading{
+    text-align: center;
+    color: white;
+    background-image: url('https://i.pinimg.com/originals/8a/80/99/8a8099c1b53399dc2f22bc0ce3f940e4.png');
+}
+.facts{
+    text-align: center;
+}
+h1{
+    font-size: 75px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    background-image: url('https://images.unsplash.com/photo-1595865749889-b37a43c4eba4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2t5JTIwY2xvdWRzfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent
+}
+h3{
+    font-size: 40px;
+    font-weight: bolder;
+}
+h4{
+    font-size: 30px;
+    font-weight: bolder;
+}
+p{
+    font-size: 20px;
+}
+nav li {
+    display: inline;
+    padding-right: 2rem;
+  }
+nav li:last-child {
+    padding-right: 0;
+}
